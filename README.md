@@ -29,12 +29,9 @@ Building fast, scalable, and clean user interfaces with React.js ecosystem.
 
 **Frameworks & Libraries**  
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,vite)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg" width="48" height="48" alt="GSAP" />
 
 **UI & Styling**  
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui)](https://skillicons.dev)
-`ShadCN UI` `DaisyUI`
 
 **Backend**  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)

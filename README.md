@@ -30,7 +30,7 @@ Building fast, scalable, and clean user interfaces with React.js ecosystem. 🎯
 
 ## 🌱 Currently Learning
 
-· Backend Architecture · 
+· Backend Architecture 
 
 ---
 

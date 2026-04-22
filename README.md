@@ -1,7 +1,7 @@
 # Hi, I'm Vishal Singh 👋
 
-🎯 **React Frontend Developer** | Mumbai, India  
-Building fast, scalable, and clean user interfaces with React.js ecosystem.
+**React Frontend Developer** | Mumbai, India  
+Building fast, scalable, and clean user interfaces with React.js ecosystem. 🎯 
 
 ---
 
@@ -24,16 +24,13 @@ Building fast, scalable, and clean user interfaces with React.js ecosystem.
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,materialui,redux,vite,git,github,vercel,postman,npm)](https://skillicons.dev)
 
 ---
 
 ## 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)  
-Next.js · Backend Architecture · REST API Design
+· Backend Architecture · 
 
 ---
 

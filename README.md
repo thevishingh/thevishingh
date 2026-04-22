@@ -24,23 +24,9 @@ Building fast, scalable, and clean user interfaces with React.js ecosystem.
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+## 🛠️ Tech Stack
 
-**Frameworks & Libraries**  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,vite)](https://skillicons.dev)
-
-**UI & Styling**  
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui)](https://skillicons.dev)
-
-**Backend**  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-**Database**  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
-**Tools & Platforms**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,materialui,redux,vite,git,github,vercel,postman,npm)](https://skillicons.dev)
 
 ---
 

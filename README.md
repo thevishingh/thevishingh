@@ -79,14 +79,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thevishingh&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevishingh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=thevishingh&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishingh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🧠 Current Focus

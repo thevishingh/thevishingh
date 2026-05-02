@@ -1,46 +1,118 @@
-# Hi, I'm Vishal Singh 👋
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+<h3 align="center">Frontend Developer | React.js | Building Scalable Web Applications 🚀</h3>
 
-**React Frontend Developer** | Mumbai, India  
-Building fast, scalable, and clean user interfaces with React.js ecosystem. 🎯 
+<p align="center">
+  <a href="https://app.daily.dev/devishingh">
+    <img src="https://api.daily.dev/devcards/v2/ukEuaymwAMy5LzSPTrbGa.png?type=default&r=g2t" width="320" alt="Vishal Singh's Dev Card"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/thevishingh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://thevishingh.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/thevishingh">
+    <img src="https://img.shields.io/github/followers/thevishingh?logo=github&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 2+ years of experience in frontend development  
+- ⚛️ React.js specialist with focus on clean UI & performance  
+- 🧠 Strong in scalable architecture & reusable components  
+- 🛠️ Building real-world projects while preparing for interviews  
+- 🌱 Learning backend to move towards full-stack development  
+
+---
+
+## 🧩 Featured Project
+
+### 🔹 Job Portal (Full Stack - In Progress)
+> Building a scalable job platform from scratch
+
+- 🔐 Authentication (Register, Login, Profile Update)  
+- 🏢 Company & job management module (in progress)  
+- ⚡ Focus on performance & clean architecture  
+
+**Tech Stack:** React · Node.js · Express · MongoDB  
 
 ---
 
 ## 💼 Experience
 
-**React Frontend Developer** — Mentation Solutions Pvt. Ltd. *(March 2024 – March 2026)*
-- Built and maintained production-grade React applications
-- Mentored interns and contributed to **Bhojpal** — a team restaurant management system
-- Stack: React.js · Tailwind CSS · Redux Toolkit · Context API · Axios · DaisyUI
+### **React Frontend Developer**  
+**Mentation Solutions Pvt. Ltd.** *(Mar 2024 – Mar 2026)*  
+- Built and maintained production-grade React applications  
+- Mentored interns and improved team productivity  
+- Worked on **Bhojpal**  restaurant management system  
+- Optimized UI performance and user experience  
 
-**Frontend Developer Intern** — Mentation Solutions Pvt. Ltd. *(July 2023 – February 2024)*
-- Worked on real client-facing UI components during internship
-- Converted to full-time based on performance
+---
 
-**Freelance Frontend Developer** *(Ongoing)*
-- Building custom web interfaces and landing pages for clients
-- Stack: React.js · Tailwind CSS · JavaScript
+### **Frontend Developer Intern**  
+**Mentation Solutions Pvt. Ltd.** *(Jul 2023 – Feb 2024)*  
+- Developed client-facing UI components  
+- Collaborated with designers and backend team  
+- Converted to full-time based on performance  
+
+---
+
+### **Freelance Frontend Developer** *(Ongoing)*  
+- Built custom landing pages and UI solutions  
+- Delivered responsive and optimized interfaces  
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,materialui,redux,vite,git,github,vercel,postman,npm)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,redux,vite,git,github,vercel,postman,npm" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-· Backend Architecture 
-
----
-
-## 📫 Let's Connect
-
-- 🌐 Portfolio: [thevishingh.vercel.app](https://thevishingh.vercel.app)
-- 📄 Resume: [thevishingh-resume.vercel.app](https://thevishingh-resume.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/thevishingh](https://linkedin.com/in/thevishingh)
-- 🐙 GitHub: [github.com/thevishingh](https://github.com/thevishingh)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thevishingh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevishingh&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishingh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⚡ **Open to Frontend / React Developer roles across India.**
+## 🧠 Current Focus
+
+- ⚛️ Advanced React patterns  
+- 🌐 Backend architecture & APIs  
+- 🚀 Full-stack project development  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://thevishingh.vercel.app  
+- 📄 Resume: https://thevishingh-resume.vercel.app  
+- 💼 LinkedIn: https://linkedin.com/in/thevishingh  
+- 🐙 GitHub: https://github.com/thevishingh  
+
+---
+
+## 🎯 Open To Work
+
+💼 Actively looking for **Frontend / React Developer roles**  
+📍 Open to relocation across India  
+
+---
+
+<p align="center">
+  ⭐️ If you like my work, consider following me!
+</p>

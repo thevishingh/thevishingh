@@ -84,7 +84,7 @@
 
 <p align="left">
   <br>
-  <img src="https://streak-stats.demolab.com?user=thevishingh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=thevishingh&theme=merko&hide_border=true" />
   <br>
 </p>
 

@@ -9,10 +9,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/thevishingh">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://thevishingh.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://thevishingh-resume.vercel.app">
+    <img src="https://img.shields.io/badge/Resume-FF5722?logo=readme&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/thevishingh">
     <img src="https://img.shields.io/github/followers/thevishingh?logo=github&style=for-the-badge" />
@@ -80,12 +83,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevishingh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
+  <br>
   <img src="https://streak-stats.demolab.com?user=thevishingh&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishingh&layout=compact&theme=tokyonight&hide_border=true" />
+  <br>
 </p>
+
 ---
 
 ## 🧠 Current Focus

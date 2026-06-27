@@ -100,8 +100,8 @@
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://thevishingh.vercel.app  
-- 📄 Resume: https://thevishingh-resume.vercel.app  
+- 🌐 Portfolio: https://portfolio.thevishingh.workers.dev/  
+- 📄 Resume: https://resume.thevishingh.workers.dev/  
 - 💼 LinkedIn: https://linkedin.com/in/thevishingh  
 - 🐙 GitHub: https://github.com/thevishingh  
 
